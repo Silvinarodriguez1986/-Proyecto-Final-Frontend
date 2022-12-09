@@ -5,7 +5,38 @@ function derechos()
 function modonoche() {
 document.body.style.backgroundColor= "black";
 document.getElementById("about").style.backgroundColor = "black";
-document.getElementById("about").style.color = "white";
+document.getElementById("blanco").style.color = "white";
+document.getElementById("blanco1").style.color = "white";
+document.getElementById("blanco2").style.color = "white";
+document.getElementById("blanco3").style.color = "white";
+document.getElementById("blanco4").style.color = "white";
+document.getElementById("blanco5").style.color = "white";
+document.getElementById("blanco6").style.color = "white";
+document.getElementById("blanco7").style.color = "white";
+document.getElementById("blanco8").style.color = "white";
+document.getElementById("blanco9").style.color = "white";
+document.getElementById("blanco10").style.color = "white";
+document.getElementById("portfolio").style.backgroundColor = "black";
+document.getElementById("blanco11").style.color = "white";
+document.getElementById("blanco12").style.color = "white";
+document.getElementById("blanco13").style.color = "white";
+document.getElementById("blanco14").style.color = "white";
+document.getElementById("blanco15").style.color = "white";
+document.getElementById("blanco16").style.color = "white";
+document.getElementById("blanco17").style.color = "white";
+document.getElementById("blanco18").style.color = "white";
+document.getElementById("blanco19").style.color = "white";
+document.getElementById("blanco20").style.color = "white";
+document.getElementById("blanco21").style.color = "white";
+document.getElementById("blanco22").style.color = "white";
+document.getElementById("call-action").style.backgroundColor = "black";
+document.getElementById("blanco23").style.color = "white";
+document.getElementById("blanco24").style.color = "white";
+document.getElementById("footer").style.backgroundColor = "black";
+document.getElementById("footer").style.color = "white";
+
+
+
 
 }
 
